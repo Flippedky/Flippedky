@@ -27,10 +27,13 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Flippedky/Flippedky/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br/>
+
 <!-- Quiec's github stats -->	
 ### 📊 Stats
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flippedky&show_icons=true&theme=dark&include_all_commits=true" alt="stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flippedky&theme=dark&layout=compact" alt="tops" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+<br/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Flippedky&theme=dark"></img>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Flippedky&theme=dark" />
