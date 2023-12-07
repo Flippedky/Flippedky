@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub stats graph -->
 
-### 📈 GitHub Activity Graph:
+### 📈 Github Activity Graph:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flippedky/Flippedky/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flippedky/Flippedky/output/github-contribution-grid-snake.svg">
@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 </picture>
 
 <!-- Quiec's github stats -->	
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flippedky&theme=dark&layout=compact" alt="stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flippedky&theme=dark&layout=compact" alt="tops" /> |
+### 📊 Stats
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flippedky&show_icons=true&theme=dark&include_all_commits=true" alt="stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flippedky&theme=dark&layout=compact" alt="tops" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Flippedky"></img>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Flippedky&theme=dark"></img>
