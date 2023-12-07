@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey Bro. 👋
+
+----
 
 <!--
 **Flippedky/Flippedky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +20,8 @@ Here are some ideas to get you started:
 <!-- my-header-img -->
 ![](./images/header_.png)
 
+----
+
 <!-- GitHub stats graph -->
 
 ### 📈 Github Activity Graph:
@@ -27,7 +31,7 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Flippedky/Flippedky/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/>
+----
 
 <!-- Quiec's github stats -->	
 ### 📊 Stats
@@ -36,4 +40,4 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Flippedky&theme=dark" />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Flippedky&theme=dark" />-->
