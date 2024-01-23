@@ -32,8 +32,9 @@ Here are some ideas to get you started:
 ----
 
 <!-- Quiec's github stats -->	
+<!--
 ### 📊 Stats
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flippedky&show_icons=true&theme=dark&include_all_commits=true" alt="stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flippedky&theme=dark&layout=compact" alt="tops" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
+-->	
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Flippedky&theme=dark" />-->
